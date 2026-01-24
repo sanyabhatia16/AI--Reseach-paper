@@ -1,0 +1,13 @@
+Django>=4.2
+djangorestframework
+django-cors-headers
+
+PyPDF2
+nltk
+
+sentence-transformers
+scikit-learn
+numpy
+
+torch
+transformers

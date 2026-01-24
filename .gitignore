@@ -1,0 +1,8 @@
+C:\Users\hp\AI reseach paper
+venv/
+__pycache__/
+*.pyc
+.env
+media/
+db.sqlite3
+node_modules/
